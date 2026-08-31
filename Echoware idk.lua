@@ -69,7 +69,7 @@ if b == "Yes" then pcall(function() if l then l:Kick("VPN detected") end end) en
 
 if queue_on_teleport then
     queue_on_teleport([[
-        loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/ladomirkout-wq/tco-scripts/refs/heads/main/Echoware%20idk.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ladomirkout-wq/tco-scripts/refs/heads/main/Echoware%20idk.lua"))()
     ]])
 end
 
